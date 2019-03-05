@@ -1,1 +1,6 @@
-
+[
+    {
+        "key": "ctrl+oem_102",
+        "command": "editor.emmet.action.wrapIndividualLinesWithAbbreviation"
+    }
+]
