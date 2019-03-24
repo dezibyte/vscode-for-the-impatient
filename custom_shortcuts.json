@@ -2,5 +2,9 @@
     {
         "key": "ctrl+oem_102",
         "command": "editor.emmet.action.wrapIndividualLinesWithAbbreviation"
+    },
+    {
+        "key": "ctrl+shift+oem_102",
+        "command": "workbench.action.minimizeOtherEditors"
     }
 ]
